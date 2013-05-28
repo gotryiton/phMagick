@@ -5,8 +5,6 @@
   "homepage": "http://github.com/gotryiton/phmagick",
   "license": "MIT",
   "autoload" : {
-    "psr-0": {
-      "files": ["phmagick.php"]
-    }
+    "files": ["phmagick.php"]
   }
 }
